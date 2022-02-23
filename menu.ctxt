@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Metodo\ main,\ aqu\u00ED\ se\ encuentra\ el\ men\u00FA\ de\ inicio\r\n\ del\ juego.\r\n
+comment1.params=pregunta\ min\ max
+comment1.target=int\ numeroCorrecto(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Metodo\ para\ dar\ robusted\ al\ programa.\ Aunque\ metas\ un\ dato\r\n\ incorrecto,\ se\ captura\ la\ excepci\u00F3n\ que\ lanza\ y\ contin\u00FAa\r\n\ la\ ejecuci\u00F3n\ hasta\ que\ el\ dato\ es\ correcto.\r\n
+comment2.params=pregunta
+comment2.target=int\ leerEntero(java.lang.String)
+comment2.text=\r\n\ Metodo\ para\ dar\ robusted\ al\ programa.\ Aunque\ metas\ un\ dato\r\n\ incorrecto,\ se\ captura\ la\ excepci\u00F3n\ que\ lanza\ y\ contin\u00FAa\r\n\ la\ ejecuci\u00F3n\ hasta\ que\ el\ dato\ es\ correcto.\r\n
+numComments=3

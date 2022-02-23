@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=in\ fine
+comment0.target=TobEsc(int,\ int)
+comment0.text=\r\n\ Constructor\ que\ crea\ los\ objetos\ TOBOGAN\ o\ ESCALERA,\r\n\ caracterizados\ por\ tener\ un\ inicio\ y\ un\ final.\r\n
+comment1.params=
+comment1.target=int\ getInicio()
+comment1.text=\r\n\ Metodo\ que\ devuelve\ la\ casilla\ de\ inicio\ del\ tobogan\ o\ escalera\ \r\n\ objeto\ due\u00F1o.\r\n
+comment2.params=
+comment2.target=int\ getFinal()
+comment2.text=\r\n\ Metodo\ que\ devuelve\ la\ casilla\ de\ finalizacion\ del\ tobogan\ o\ escalera\ \r\n\ objeto\ due\u00F1o.\r\n
+comment3.params=
+comment3.target=boolean\ getEsEsc()
+comment3.text=\r\n\ Metodo\ booleano\ que\ devuelve\ "true"\ si\ el\ objeto\ due\u00F1o\ es\ una\r\n\ escalera,\ o\ false\ si\ es\ un\ tobogan.\r\n
+comment4.params=
+comment4.target=boolean\ getEsTob()
+comment4.text=\r\n\ Metodo\ booleano\ que\ devuelve\ "true"\ si\ el\ objeto\ due\u00F1o\ es\ un\r\n\ tobogan,\ o\ false\ si\ es\ una\ escalera.\r\n
+numComments=5
