@@ -3,7 +3,7 @@ import java.util.*;
  * Clase que representa un dado definido por
  * un valor aleatorio entre 1 y 6.
  * 
- * @author (Andres Fandos Villanueva, Claudia Gonzalo Gimeno) 
+ * @author
  * @version (a version number or a date)
  */
 public class Dado
