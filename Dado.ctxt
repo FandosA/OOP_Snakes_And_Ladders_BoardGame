@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Dado
-comment0.text=\r\n\ Clase\ que\ representa\ un\ dado\ definido\ por\r\n\ un\ valor\ aleatorio\ entre\ 1\ y\ 6.\r\n\ \r\n\ @author\ (Andres\ Fandos\ Villanueva,\ Claudia\ Gonzalo\ Gimeno)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment0.text=\r\n\ Clase\ que\ representa\ un\ dado\ definido\ por\r\n\ un\ valor\ aleatorio\ entre\ 1\ y\ 6.\r\n\ \r\n\ @author\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=
 comment1.target=Dado()
 comment1.text=\r\n\ Constructor\ del\ dado,\ genera\ un\ objeto\ que\ tiene\ como\ atributo\r\n\ un\ numero\ aleatorio\ del\ 1\ al\ 6.\r\n
