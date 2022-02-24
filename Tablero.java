@@ -8,7 +8,7 @@ import java.util.*;
  * Por último, aquí también se encuentra el método "juego",
  * donde está el código que desarrolla todo el juego.
  * 
- * @author (Andres Fandos Villanueva, Claudia Gonzalo Gimeno) 
+ * @author
  * @version (a version number or a date)
  */
 public class Tablero
