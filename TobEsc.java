@@ -4,7 +4,7 @@
  * una casilla de inicio y una casilla final para luego
  * implementarlos en el tablero.
  * 
- * @author (Andres Fandos Villanueva, Claudia Gonzalo Gimeno) 
+ * @author
  * @version (a version number or a date)
  */
 public class TobEsc
