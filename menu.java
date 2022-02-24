@@ -3,7 +3,7 @@ import java.util.*;
  * Clase que representa el menú del programa que simula
  * el juego.
  * 
- * @author (Andrés Fandos Villanueva, Claudia Gonzalo Gimeno) 
+ * @author
  * @version (a version number or a date)
  */
 public class menu
