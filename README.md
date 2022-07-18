@@ -5,4 +5,4 @@ The game is played on a game board with numbered, gridded squares. A number of _
 
 This particular project had 2 players and the game board consisted of: 100 squares and 2 snakes and 2 ladders set by the user, although there was also the option to configure them randomly by the program. The program gives all the necessary information to know the state of the game all the time and the die is rolled with the ``enter`` key.
 
-![i984_pimgpsh_fullsize_distr](https://user-images.githubusercontent.com/71872419/155351268-4d806ea3-e75f-4e71-ab74-0c4674382de4.png)
+![i984_pimgpsh_fullsize_distr](align="center" https://user-images.githubusercontent.com/71872419/155351268-4d806ea3-e75f-4e71-ab74-0c4674382de4.png)
